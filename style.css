@@ -9,7 +9,6 @@ body {
   
   header {
     background-color: darkblue;
-    background-image: url(images/backgrounds/subtle_brown_mini_waves.jpg);
     margin-bottom: 40px;
   }
   
@@ -114,7 +113,7 @@ body {
     font-size: 18px;
     font-family: 'Montserrat Alternates', sans-serif;
     font-weight: 500;
-    color: #darkblue;
+    color: darkblue;
   }
   
   p {
