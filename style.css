@@ -8,7 +8,7 @@ body {
   }
   
   header {
-    background-color: #ccffff;
+    background-color: darkblue;
     background-image: url(images/backgrounds/subtle_brown_mini_waves.jpg);
     margin-bottom: 40px;
   }
@@ -99,7 +99,7 @@ body {
     font-size: 28px;
     font-family: 'Montserrat Alternates', sans-serif;
     font-weight: 400;
-    color: #ccffff;
+    color: darkblue;
   }
   
   h2 {
@@ -107,21 +107,21 @@ body {
     font-family: 'Montserrat Alternates', sans-serif;
     font-weight: 400;
     margin: 0 10px;
-    color: #ccffff;
+    color: darkblue;
   }
   
   h3 {
     font-size: 18px;
     font-family: 'Montserrat Alternates', sans-serif;
     font-weight: 500;
-    color: #ccffff;
+    color: #darkblue;
   }
   
   p {
    font-family: 'Montserrat', sans-serif;
    line-height: 1.5em;
    margin-bottom: 0;
-   color: #ccffff;
+   color: darkblue;
   }
   
   main a {
@@ -129,10 +129,10 @@ body {
       text-decoration: none;	
   }
   
-  main  a:link { color: #ccffff; }
-  main  a:visited { color: #ccffff; }
-  main  a:hover { color: #ccffff; }
-  a:active { color: #ccffff; }
+  main  a:link { color: darkblue; }
+  main  a:visited { color: darkblue; }
+  main  a:hover { color: darkblue; }
+  a:active { color: darkblue; }
   
   
   a:hover {
@@ -140,7 +140,7 @@ body {
   }
   
   footer p {
-    color: #fff;
+    color: darkblue;
     text-align: center;
     padding: 20px;
   }
