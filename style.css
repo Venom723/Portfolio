@@ -9,6 +9,7 @@ body {
   
   header {
     background-color: darkblue;
+    background-image: url(images/backgrounds/subtle_brown_mini_waves.jpg);
     margin-bottom: 40px;
   }
   
@@ -68,7 +69,6 @@ body {
       margin-top: 14px;
     }
   }
-  
   /* ---  Primary Groups --- */
   
   main {
@@ -165,6 +165,10 @@ body {
   
   .item-double {
     flex: 2;
+  }
+
+  .services {
+    color: darkblue;
   }
   
   
